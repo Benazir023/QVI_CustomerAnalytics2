@@ -10,3 +10,9 @@ To rank how similar the trial stores were to the control stores we used correlat
 
 To find out if the performance of the trial & control stores differed at different percentiles, we used ggplot which produced graphs such as
 ![Untitled](https://github.com/Benazir023/QVI_CustomerAnalytics2/assets/123881327/56992207-0d62-43df-aedd-09b071522297)
+
+From the analysis, it was found that control stores for store 77, 86 & 88 were 233, 155 & 237 respectively. After assessment of the trial, it was found that:
+•	Pair 77/233 – sales performance in trial store 77 was significantly different from that in control store 233 for 2 out of the 3 trial months. Same case applied to the customer assessment. 
+•	Pair 86/155 – sales performance in trial store 86 wasn’t significantly different for 2/3 trial months. However, the number of customers is significantly higher in 3/3 months of the trial period.
+•	Pair 88/237 – Total number of customers was significantly high in 1/3 of the trial months i.e March. 
+In conclusion, there was an overall increase in sales during the trial period in stores 77 & 86. Trial in store 88 didn’t bear much fruit & we can check with Julia, our client, to see if the implementation was different in store 88. 
