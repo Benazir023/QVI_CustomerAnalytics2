@@ -8,3 +8,5 @@ We used the data we had previously & considered things like monthly overall sale
 To rank how similar the trial stores were to the control stores we used correlation & came up with graphs like these:
 ![Untitled](https://github.com/Benazir023/QVI_CustomerAnalytics2/assets/123881327/aa19fed5-d0bf-4029-8b0e-ed4a3db53835)
 
+To find out if the performance of the trial & control stores differed at different percentiles, we used ggplot which produced graphs such as
+![Untitled](https://github.com/Benazir023/QVI_CustomerAnalytics2/assets/123881327/56992207-0d62-43df-aedd-09b071522297)
