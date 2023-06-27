@@ -1204,6 +1204,5 @@ Total number of customers was significantly high in 1/3 of the trial months i.e 
 
 to do:
 
-populate all rows (members of a group) with mean of grouped data**
 
 
